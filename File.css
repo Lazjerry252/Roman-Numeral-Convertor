@@ -1,0 +1,86 @@
+body {
+  background-color: cornflowerblue;
+}
+.first-div {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  background-color: black;
+  text-align: center;
+}
+.name {
+  font-size: 50px;
+  font-weight: 800;
+  color: chocolate;
+  font-family: Arial;
+  text-shadow: 10px 10px 8px rgba(185, 131, 14, 0.6);
+}
+
+.big-div {
+  margin-top: 10px;
+}
+.min,
+.max {
+  font-size: 28px;
+  color: white;
+  font-family: arial;
+  margin-left: 10px;
+}
+.css-number {
+  height: 100px;
+  width: 300px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 8px;
+  border-width: 5px;
+  font-size: 27px;
+  padding-left: 10px;
+  background-color: cornflowerblue;
+}
+.second-div {
+  display: ;
+  justify-content:;
+  margin-left: 10px;
+}
+.css-convert {
+  height: 60px;
+  width: 150px;
+  background-color: blue;
+  color: white;
+  font-size: 23px;
+  font-family: Arial;
+  font-weight: 800;
+  border: none;
+  border-radius: 15px;
+  margin-left: 10px;
+}
+.css-clear {
+  height: 60px;
+  width: 150px;
+  background-color: blue;
+  color: white;
+  font-size: 23px;
+  font-family: Arial;
+  font-weight: 800;
+  border: none;
+  border-radius: 15px;
+  margin-left: 50px;
+}
+.css-output {
+  font-size: 37px;
+  color: brown;
+  font-family: Arial;
+  font-weight: 800;
+  height: 80px;
+  background-color: cornflowerblue;
+  display: inline-block;
+  max-width: 1200px;
+  margin-left: 1px;
+  border-radius: 8px;
+  border-color: cornflowerblue;
+  border-style: solid;
+  border-width: 5px;
+  text-align: center;
+  padding-top: 20px;
+  margin-left: 20px;
+}
